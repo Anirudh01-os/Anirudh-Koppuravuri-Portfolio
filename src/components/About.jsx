@@ -1,5 +1,5 @@
 import React from 'react';
-import stackImage from '../assets/about/HeroImage.png.png';
+import stackImage from '../assets/about/Hero_Image.png';
 import { aboutContent } from '../data/portfolioData';
 
 // Tech stack SVG icons rendered inline for crisp rendering
