@@ -1,55 +1,55 @@
 // ============================================================
-// portfolioData.js — Centralized configuration for Md Yusuf's Portfolio
+// portfolioData.js — Centralized configuration for Anirudh Koppuravuri's Portfolio
 // All external links, personal info, and content in one place.
 // Update this file to change any content across the entire site.
 // ============================================================
 
 export const personalInfo = {
-  name: "Md Yusuf",
-  firstName: "Md Yusuf",
-  brandName: "Md Yusuf",
-  title: "Full Stack & Java Developer",
-  location: "Bhopal, India",
-  phone: "+91 99396-08743",
+  name: "Anirudh Koppuravuri",
+  firstName: "Anirudh Koppuravuri",
+  brandName: "Anirudh Koppuravuri",
+  title: "Software Developer & Engineer",
+  location: "Vellore, India",
+  phone: "+91 8639481359",
   emails: {
-    primary: "mdyusufcse096@iesuniversity.ac.in",
-    secondary: "yusuf.rgpv@gmail.com",
+    primary: "anirudhkoppuravuri@gmail.com",
+    secondary: "koppuravuri.anirudh2024@vitstudent.ac.in",
   },
   summary:
-    "Aspiring software engineer and motivated B.Tech Computer Science student with solid skills in Java, Spring Boot, React, and Python. Passionate about building scalable full-stack applications with clean architecture and modern tech stacks.",
-  resumeUrl: "/Md_Yusuf_Resume_2026.pdf",
+    "Aspiring software engineer and motivated B.Tech Computer Science student with solid skills in Python, SQL, Data Analytics, and MERN Stack. Passionate about building scalable AI applications with clean architecture and modern tech stacks.",
+  resumeUrl: "/Anirudh_Koppuravuri_Resume_2026.pdf",
 };
 
 export const socialLinks = {
-  github: "https://github.com/mdyusuf0",
-  linkedin: "https://linkedin.com/in/mdyusuf0",
+  github: "https://github.com/Anirudh01-os",
+  linkedin: "https://www.linkedin.com/in/anirudh-koppuravuri-762643338/",
   instagram: "https://instagram.com/heyyusuffff",
 };
 
 export const heroContent = {
-  greeting: "Hi, I'm Md Yusuf",
-  titleHighlight: "Full Stack & Java Developer",
+  greeting: "Hi, I'm Anirudh Koppuravuri",
+  titleHighlight: "Software Developer & AI Engineer",
   subtitle:
-    "I build fast, scalable applications using Java, Spring Boot, MERN Stack, and Python.",
+    "I build fast, scalable AI applications using Python, Diffusion Models, Kubernetes, and GCP.",
   ctaPrimary: { text: "View My Work", href: "#projects" },
   ctaSecondary: {
     text: "Contact Me",
-    href: "mailto:mdyusufcse096@iesuniversity.ac.in?subject=Hiring Inquiry – Portfolio&body=Hello Md Yusuf,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
+    href: "mailto:anirudhkoppuravuri@gmail.com?subject=Hiring Inquiry – Portfolio&body=Hello Anirudh Koppuravuri,%0D%0A%0D%0AI came across your portfolio and would like to discuss an opportunity with you.%0D%0A%0D%0ALooking forward to hearing from you.%0D%0ABest Regards,",
   },
-  ctaResume: { text: "Download Resume", href: "/Md_Yusuf_Resume_2026.pdf" },
+  ctaResume: { text: "Download Resume", href: "/Anirudh_Koppuravuri_Resume_2026.pdf" },
 };
 
 export const aboutContent = {
   heading: "Hello!",
-  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Md Yusuf</span>, an aspiring software engineer based in Bhopal, India, dedicated to crafting clean, functional, and highly scalable full-stack applications.`,
-  techStack: ["Java", "Spring Boot", "MERN Stack"],
+  bio: `Hi, my name is <span class="text-black text-xl font-black mx-1 tracking-wide uppercase">Anirudh Koppuravuri</span>, an aspiring software engineer based in Vellore, India, dedicated to crafting clean, functional, and highly scalable AI applications.`,
+  techStack: ["Python", "Data Analytics", "MERN Stack"],
 };
 
 export const skillsContent = {
   badge: "My Process",
   heading: "Here's how I turn ideas into real-world applications",
   description:
-    "I follow a structured, creative, and highly technical approach to turn ideas into robust full-stack applications.",
+    "I follow a structured, creative, and highly technical approach to turn ideas into robust AI applications.",
   cards: [
     {
       number: "01",
@@ -81,15 +81,15 @@ export const technicalSkills = {
     {
       title: "Programming Languages",
       skills: [
-        { name: "Java", level: 90 },
-        { name: "C++", level: 85 },
-        { name: "Python", level: 75 }
+        { name: "Python", level: 99 },
+        { name: "SQL", level: 90 },
+        { name: "MERN", level: 80 }
       ]
     },
     {
-      title: "Full Stack",
+      title: "MERN Stack",
       skills: [
-        { name: "MERN Stack", level: 90 },
+        { name: "MERN ", level: 90 },
         { name: "HTML", level: 95 },
         { name: "CSS", level: 90 },
         { name: "JavaScript", level: 92 }
@@ -99,7 +99,7 @@ export const technicalSkills = {
       title: "Backend",
       skills: [
         { name: "Spring Boot", level: 88 },
-        { name: "FastAPI", level: 75 },
+        { name: "FastAPI", level: 80 },
         { name: "REST APIs", level: 90 }
       ]
     },
@@ -116,8 +116,8 @@ export const technicalSkills = {
       skills: [
         { name: "Git & GitHub", level: 90 },
         { name: "VS Code", level: 95 },
-        { name: "Postman", level: 88 },
-        { name: "n8n", level: 82 },
+        { name: "Claude Code", level: 88 },
+        { name: "n8n", level: 90 },
         { name: "MongoDB Compass", level: 85 },
         { name: "Antigravity", level: 80 },
         { name: "Codex", level: 75 }
@@ -126,8 +126,8 @@ export const technicalSkills = {
     {
       title: "Computer Science Concepts",
       skills: [
-        { name: "Data Structures", level: 88 },
-        { name: "Algorithms", level: 85 },
+        { name: "Data Structures", level: 95 },
+        { name: "Algorithms", level: 95 },
         { name: "DBMS", level: 86 },
         { name: "OOP", level: 90 },
         { name: "Software Engineering", level: 84 }
@@ -145,7 +145,7 @@ export const contentCreation = {
     {
       title: "Cinematic Reels",
       description: "Visual stories crafted with cinematic lighting, premium color grading, and high-impact sound design.",
-      stats: "50+ Reels Created",
+      stats: "10+ Reels Created",
       icon: "🎥"
     },
     {
@@ -157,7 +157,7 @@ export const contentCreation = {
     {
       title: "Educational Reels",
       description: "Fast-paced tech tutorials and educational content designed to simplify coding and software engineering.",
-      stats: "100k+ Views",
+      stats: "1k+ Views",
       icon: "🧠"
     },
     {
@@ -172,59 +172,59 @@ export const contentCreation = {
 // Brand New Leadership Data
 export const leadershipList = [
   {
-    title: "IEEE Madhya Pradesh Section (Social Media Team)",
-    description: "Managed and coordinated digital content, driving audience engagement and designing interactive visual campaigns for tech events.",
-    role: "Social Media Coordinator",
+    title: "Google Code Vipassanna Hackathon 2025",
+    description: "design and deploy a multimodal deepfake detection system under competitive constraints.",
+    role: "Participant",
+    badge: "Attendee"
+  },
+  {
+    title: "Microsoft Fabric Data Day 2025",
+    description: "Attended the in-person event at Microsoft's office at Hyderabad and learned about Microsoft Fabric.",
+    role: "Member",
     badge: "Volunteer"
   },
   {
-    title: "Team Coordinator – Go-Kart International Racing 2K25",
-    description: "Led multi-disciplinary teams in project management, budget control, and logistics coordination for a high-profile international racing event.",
-    role: "Team Coordinator",
-    badge: "Leadership"
+    title: "Google Agentathon 2025",
+    description: "Participated in an Hackathon organized by Google at MR University, where I developed a prototype for an AI-powered personal assistant using LLMs and n8n automation.",
+    role: "Participant",
+    badge: "Attendee"
   },
   {
-    title: "5-Day MOE IDE Bootcamp, Roorkee",
-    description: "Participated in an intensive Innovation, Design, and Entrepreneurship Bootcamp organized by the Ministry of Education at IIT Roorkee.",
-    role: "Bootcamp Graduate",
-    badge: "Innovation"
+    title: "Amazon ML Challange 2025",
+    description: "Participated in the flagship hackathon and made into the top 100 out of 500 participants",
+    role: "Participant",
+    badge: "Attendee"
   },
   {
-    title: "Hosted INFORIA Tech Summit Hackathon",
-    description: "Organized and hosted the flagship hackathon, managing registrations, mentoring participant teams, and coordinating judge evaluations.",
-    role: "Hackathon Organizer",
-    badge: "Co-Curricular"
-  },
-  {
-    title: "Event Coordinator & Anchoring – INFORIA 2K25",
-    description: "Coordinated technical events and served as the main stage anchor, speaking in front of large crowds and managing the summit flow.",
-    role: "Stage Anchor & Coordinator",
-    badge: "Public Speaking"
+    title: "NVIDIA Event 2025",
+    description: "Attended the in-person event at NVIDIA's office and learned about their latest advancements in AI and graphics technology.",
+    role: "Attendee",
+    badge: "Attendee"
   }
 ];
 
 // Brand New Internships Data
 export const internshipsList = [
   {
-    organization: "Netlink, Bhopal",
-    role: "Data Analytics & BI Tools Intern",
+    organization: "VIT Vellore, Vellore",
+    role: "Undergraduate Research Assistant",
     duration: "June 2025 - August 2025",
-    skills: ["Data Analytics", "Business Intelligence", "Dashboard Design", "Data Modeling"],
-    tech: ["Lumenore", "MySQL", "Excel", "BI Tools"]
+    skills: ["Deep Research", "Postgre SQL", "Fast API", "Diffusion Models"],
+    tech: ["GNNs", "SQL", "Pytorch", "Power BI"]
   },
   {
-    organization: "Canva",
-    role: "Visual Content Creator & Designer",
-    duration: "May 2024 - June 2024",
-    skills: ["Visual Designing", "Poster Design", "Team Branding", "Asset Creation"],
-    tech: ["Canva Pro", "Figma", "Canva Design Suite"]
+    organization: "BharatVersity",
+    role: "MERN Stack Intern",
+    duration: "Apr 2025 - July 2025",
+    skills: ["MERN", "Poster Design", "AI AUtomation", "AI Agents"],
+    tech: ["MERN", "JavaScript", "Canva Design Suite"]
   },
   {
-    organization: "CollegeTips.in",
-    role: "Web Development Intern",
-    duration: "1 Month (Offline)",
-    skills: ["Frontend Development", "Responsive Layouts", "API Testing", "Web Performance"],
-    tech: ["HTML5", "CSS3", "JavaScript", "Bootstrap"]
+    organization: "SkoolOfCode",
+    role: "Teaching Assistant",
+    duration: "2months (Onine)",
+    skills: ["Python", "Deep Learning", "API Testing", "Web Performance"],
+    tech: ["Python", "NumPy", "Pandas", "Bootstrap"]
   }
 ];
 
@@ -242,53 +242,52 @@ export const softSkillsList = [
 
 export const projects = [
   {
-    id: "foodmesh",
+    id: "Curexa Labs",
     number: "01",
-    badge: "🚀 Flagship Project",
-    title: "FoodMesh",
+    badge: "🚀 AI Drug Discovery System",
+    title: "Curexa Labs",
     description:
-      "FoodMesh — An enterprise-grade multi-tenant restaurant management and food ordering SaaS platform inspired by UrbanPiper. It enables restaurants to manage multiple outlets, menus, inventory, customers, staff, and orders through a scalable architecture with secure authentication, role-based access control, and real-time operations. Built with React, Next.js, NestJS, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Kubernetes, and AWS.",
+      "Curexa Labs is an AI-powered drug discovery platform that leverages advanced machine learning algorithms to analyze molecular structures, predict drug efficacy, and accelerate the development of new pharmaceuticals. The system integrates a user-friendly interface with robust backend processing, enabling researchers to streamline their workflows and make data-driven decisions in real-time.",
     techTags: [
-      "React",
-      "Next.js",
-      "NestJS",
+      "Deep Learning",
+      "GNNs",
+      "PyTorch",
       "PostgreSQL",
-      "Redis",
-      "Kafka",
-      "Elasticsearch",
+      "RD Kit",
+      "PubChem",
+      "Diffusion Models",
       "Docker",
-      "Kubernetes",
+      "Artificial Intelligence",
       "AWS",
     ],
     links: {
-      github: "https://github.com/ersamirsingh/UrbanPiper",
+      github: "https://github.com/Anirudh01-os/Curexa-Labs",
       demo: null,
     },
     isFlagship: true,
   },
   {
-    id: "karigar",
+    id: "Optima-X",
     number: "02",
     badge: null,
-    title: "Karigar",
-    description:
-      "A platform connecting local skilled workers with customers, featuring real-time search, worker profiles, and booking management with full database integration.",
-    techTags: ["React", "Node.js", "MongoDB", "Express", "REST API"],
+    title: "Optima-X",
+    description: "Built automated financial analysis pipelines using n8n and LLM orchestration, reducing manual overhead by 60%.",
+    techTags: ["LLM", "N8N", "Agentic AI", "MultiModal Transformers", "Python"],
     links: {
-      github: "https://github.com/mdyusuf0/Karigar",
-      frontendDemo: "https://karigar-frontend.onrender.com",
-      backendApi: "https://karigar-zny2.onrender.com",
+      github: "https://github.com/Anirudh01-os/Optima-X",
+      frontendDemo: "https://optima-x-frontend.onrender.com",
+      backendApi: "https://optima-x-backend.onrender.com",
     },
     isFlagship: false,
   },
   {
-    id: "sentiment-analysis",
+    id: "DistServe",
     number: "03",
     badge: null,
-    title: "AI-Powered Sentiment Analysis",
+    title: "DistServe",
     description:
-      "A full-stack web application that analyzes citizen feedback using Artificial Intelligence to classify sentiments as positive, negative, or neutral. Features a responsive React frontend, a Node.js backend, MongoDB for data storage, and n8n automation for workflow orchestration — enabling real-time insights and efficient feedback management.",
-    techTags: ["React", "Node.js", "MongoDB", "n8n", "AI/ML", "REST API"],
+      "Designed a load-aware request router, inspired by Google’s GKE Inference Gateway, that scrapes real-time KV-cache utilization via Prometheus and routes traffic to the least-loaded pod, cutting P95 latency by 48%.",
+    techTags: ["Python", "Fast API", "Docker", "Kubernetes", "Redis", "Prometheus"],
     links: {
       github: "#", // Update when available
     },
@@ -304,52 +303,50 @@ export const certificates = {
       icon: "☁️",
     },
     {
-      name: "Programming in Java (94%)",
-      issuer: "NPTEL",
+      name: "Microsoft Certified Data Associate Engineer (DP-700)",
+      issuer: "Microsoft",
       icon: "☕",
     },
     {
-      name: "C Programming & Assembly Language",
-      issuer: "NPTEL",
+      name: "Manage Kubernetes in Google CLoud",
+      issuer: "Google Cloud",
       icon: "⚙️",
     },
     {
-      name: "Technology Job Simulation",
-      issuer: "Deloitte",
+      name: "Build and Blog Marathon",
+      issuer: "Google Developers Group",
       icon: "💼",
     },
     {
-      name: "Career Edge – IT Primer",
-      issuer: "TCS iON",
+      name: "Build Real World AI Applications with Gemini and Imagen Skill Badge",
+      issuer: "Google Cloud",
       icon: "🎓",
     },
     {
-      name: "Fundamentals of BI & Analytics",
-      issuer: "Lumenore",
+      name: "Introduction to AI Concepts",
+      issuer: "Microsoft",
       icon: "📊",
     },
   ],
   viewAllUrl:
-    "https://drive.google.com/file/d/1ObdGWtVSx8SsfR4AcbCySSd9LFXcAs9f/view?usp=sharing",
+    "https://www.linkedin.com/in/anirudh-koppuravuri-762643338/details/certifications/",
 };
 
 export const education = {
   degree: "B.Tech – Computer Science & Engineering",
-  institution: "IES College of Technology (RGPV)",
-  cgpa: "8.35",
-  graduation: "2027",
-  twelfth: "12th Science – 81%",
-  tenth: "10th CBSE – 70%",
+  institution: "Vellore Institute of Technology (VIT)",
+  cgpa: "8.6",
+  graduation: "2028",
 };
 
 export const footerContent = {
   taglines: [
-    "Software Engineering & Web Dev",
-    "Java · Spring Boot · React",
-    "Full Stack Applications",
+    "Software Developer and AI Engineer",
+    "Python · AI · SQL",
+    "Full Stack AI Applications",
   ],
-  credential: "B.Tech CSE · CGPA 8.35",
-  copyright: `© ${new Date().getFullYear()} Md Yusuf | Built with React`,
+  credential: "B.Tech CSE · CGPA 8.6",
+  copyright: `© ${new Date().getFullYear()} AnirudhKoppuravuri | Built with React`,
 };
 
 // EmailJS Configuration
