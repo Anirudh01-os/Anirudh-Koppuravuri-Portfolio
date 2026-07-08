@@ -27,8 +27,7 @@ export const socialLinks = {
 };
 
 export const heroContent = {
-  greeting: "Hi, I'm Anirudh Koppuravuri",
-  titleHighlight: "Software Developer & AI Engineer",
+  
   subtitle:
     "I build fast, scalable AI applications using Python, Diffusion Models, Kubernetes, and GCP.",
   ctaPrimary: { text: "View My Work", href: "#projects" },
@@ -346,7 +345,7 @@ export const footerContent = {
     "Full Stack AI Applications",
   ],
   credential: "B.Tech CSE · CGPA 8.6",
-  copyright: `© ${new Date().getFullYear()} AnirudhKoppuravuri | Built with React`,
+  copyright: `© ${new Date().getFullYear()} Anirudh | Built with React`,
 };
 
 // EmailJS Configuration
